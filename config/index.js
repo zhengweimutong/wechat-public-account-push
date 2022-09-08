@@ -93,9 +93,9 @@ export const config = {
   /** 天气相关 */
 
   // 默认所在省份, USERS 中没填的话, 会默认拿这里的省份
-  PROVINCE: "广东",
+  PROVINCE: "陕西",
   // 默认所在城市, USERS 中没填的话, 会默认拿这里的城市
-  CITY: "惠州",
+  CITY: "咸阳",
 
   /** 重要节日相关 */
 
@@ -106,10 +106,9 @@ export const config = {
    * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
    */
   FESTIVALS: [
-    {"type": "生日", "name": "老婆", "year": "1996", "date": "09-02"},
-    {"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "09-03"},
-    {"type": "生日", "name": "李四", "year": "1996", "date": "09-31"},
-    {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "09-01"},
+    {"type": "生日", "name": "平平小仙女", "year": "1997", "date": "08-08"},
+    {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "10-08"},
+    {"type": "节日", "name": "我们在一起啦", "year": "2021", "date": "10-31"},
   ],
 
   /**
@@ -127,11 +126,11 @@ export const config = {
     * */
   CUSTOMIZED_DATE_LIST: [
     // 在一起的日子
-    {"keyword": "love_day", date: "2015-05-01"},
+    {"keyword": "love_day", date: "2022-10-31"},
     // 结婚纪念日
-    {"keyword": "marry_day", date: "2020-01-04"},
+    {"keyword": "marry_day", date: "2027-06-06"},
     // 退伍日, 不用可以删掉
-    {"keyword": "ex_day", date: "2022-08-31"},
+    //{"keyword": "ex_day", date: "2022-08-31"},
     // sakana日
     // {"keyword": "sakana_day", date: "2022-01-06"},
     // ... 
