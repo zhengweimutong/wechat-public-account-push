@@ -18,7 +18,7 @@ export const config = {
    * [
    *  {
    *    // 想要发送的人的名字
-   *    name: "老婆0",
+   *    name: "平平小仙女的人间使者",
    *    // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
    *    id: "oWbBN5lbLJbD6E93xnUJWhZ98rjU",
    *    // 你想对他发送的模板消息的模板ID
@@ -31,9 +31,9 @@ export const config = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: "老婆0",
+      name: "平平小仙女",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "oWbBN5lbLJbD6E93xnUJWhZ98rjU",
+      id: "oWbBN5iabZl1v--MyeyWPXRU8yBw",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "l3NhE_7T8JEAigsv5cgmFQ7M2isqn1kTGQI_Y7kRB74",
       // 所在省份
@@ -44,12 +44,12 @@ export const config = {
       openUrl: "https://s.weibo.com/top/summary/"
     }, 
     {
-      name: "老婆1", 
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      openUrl: "https://wangxinleo.cn"
+      name: "平平小仙女的人间使者", 
+      id: "oWbBN5lbLJbD6E93xnUJWhZ98rjU",
+      useTemplateId: "l3NhE_7T8JEAigsv5cgmFQ7M2isqn1kTGQI_Y7kRB74",
+      province: "陕西",
+      city: "杨凌",
+      openUrl: "https://s.weibo.com/top/summary/"
     }, 
     {
       name: "老婆2",
