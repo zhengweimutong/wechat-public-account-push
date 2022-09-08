@@ -37,9 +37,9 @@ export const config = {
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "SJcZu6QbtTqcy9I1iV4yRjDWjjerIFVMp4GP_ho6IgY",
       // 所在省份
-      province: "广东",
+      province: "陕西",
       // 所在城市
-      city: "肇庆",
+      city: "咸阳",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
       openUrl: "https://wangxinleo.cn"
     }, 
@@ -107,8 +107,6 @@ export const config = {
    */
   FESTIVALS: [
     {"type": "生日", "name": "平平小仙女", "year": "1997", "date": "08-08"},
-    {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "10-08"},
-    {"type": "节日", "name": "我们在一起啦", "year": "2021", "date": "10-31"},
   ],
 
   /**
@@ -126,9 +124,9 @@ export const config = {
     * */
   CUSTOMIZED_DATE_LIST: [
     // 在一起的日子
-    {"keyword": "love_day", date: "2022-10-31"},
+    {"keyword": "love_day", date: "2021-10-31"},
     // 结婚纪念日
-    {"keyword": "marry_day", date: "2027-06-06"},
+    // {"keyword": "marry_day", date: "2027-06-06"},
     // 退伍日, 不用可以删掉
     //{"keyword": "ex_day", date: "2022-08-31"},
     // sakana日
